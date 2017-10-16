@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-mu-serial",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-mu-serial",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+  },
+  "bugs": {
+  },
+  "keywords": [
+    "cordova"
+  ],
+  "scripts": {
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "devDependencies": {
+  }
+}
